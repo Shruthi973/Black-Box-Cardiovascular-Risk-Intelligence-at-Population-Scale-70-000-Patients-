@@ -3,6 +3,13 @@ A large-scale black-box machine learning system trained on 70,000 real patient r
 
 # 🫀 Cardiovascular Disease Risk Prediction — Black-Box Machine Learning
 
+<p align="center">
+  <img src="CARDIO" width="600"/>
+  <br>
+  <em>Black-box machine learning framework</em>
+</p>
+---
+
 ## Project Objective
 
 This project implements a **black-box machine learning framework** to predict **cardiovascular disease presence** using structured clinical and lifestyle variables.  
